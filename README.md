@@ -5,4 +5,12 @@
 
 # Libraries used
 
-LIDA
+LIDA, OPENAI
+
+# APIs used
+
+Open AI GPT API
+
+# LLM Models used
+
+GPT 3.5 Turbo
